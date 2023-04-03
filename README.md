@@ -1,5 +1,6 @@
 # Valohai TensorFlow Examples 
 test
+test
 
 This repository serves as an example for the [Valohai MLOps platform][vh]. It implements handwritten digit detection using
 TensorFlow, based on [TensorFlow's example][ex].
